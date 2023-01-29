@@ -33,7 +33,7 @@ function Home(){
                         
                         price={159.99}
                         image="https://m.media-amazon.com/images/I/71UJtA8cFJL._AC_UY218_.jpg"
-                      rating={4}
+                      rating={5}
                       />
                   </div>
                      <div className="home_row">
@@ -46,7 +46,7 @@ function Home(){
                               
                         price={118.79}
                         image="https://m.media-amazon.com/images/I/81IoRGCyfgL._AC_UY218_.jpg" 
-                        rating={5}
+                        rating={4}
                     />
                      <Product 
                         id='5'
@@ -62,7 +62,7 @@ function Home(){
                         title="Samsung Odyssey 49-in Gaming G9 Computer Monitor LC49G97TSSNXDC"
                         price={1099.9}
                         image="https://m.media-amazon.com/images/I/61SQz8S+fEL._AC_UY218_.jpg" 
-                        rating={4}
+                        rating={5}
                     />
                     </div>
           
