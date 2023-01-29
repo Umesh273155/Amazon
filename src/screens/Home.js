@@ -13,26 +13,26 @@ function Home(){
 
            <Product
              id="1"
-             title="Apple iPhone 14 Pro Max 1TB Gold.."
+             title="I Can Make You Rich by Paul McKenna and Richard Branson"
             
-             price={183990}
-             image="https://m.media-amazon.com/images/I/71T5NVOgbpL._AC_UY218_.jpg"
+             price={20.7}
+             image="https://m.media-amazon.com/images/I/81dyIEtkIPL._AC_UY218_.jpg"
            rating={4}
            />
            <Product
            id='2'
-           title='Dell Allienware 6GB Geforce RTX2060 core i7'
-           price={124500}
-           image="https://m.media-amazon.com/images/I/610sreKWXlL._AC_UY218_.jpg"
+           title='KitchenAid KSM150PSAQ Artisan Series 5-Qt. Stand Mixer with Pouring Shield - Aqua Sky'
+           price={399}
+           image="https://mobileimages.lowes.com/productimages/5131eb67-3f40-45aa-bfe2-f648161402ba/10161283.jpg?size=pdhism"
            
                         rating={5}
                         />
                         <Product 
                         id='3'
-                        title="boAt Rockerz 370 On Ear Bluetooth Headphones 
-                         Upto 24 Hours Playtime.."
-                        price={998}
-                        image="https://m.media-amazon.com/images/I/61kWB+uzR2L._AC_UY218_.jpg"
+                        title="Apple Watch Series 3 (GPS, 38MM) - Silver Aluminum Case with White Sport Band (Renewed)"
+                        
+                        price={159.99}
+                        image="https://m.media-amazon.com/images/I/71UJtA8cFJL._AC_UY218_.jpg"
                       rating={4}
                       />
                   </div>
@@ -41,25 +41,27 @@ function Home(){
                       
                      <Product 
                         id='4'
-                        title="Fire-Boltt Visionary 1.78 AMOLED Bluetooth Calling Smartwatch.. "
-                        price={999}
-                        image="https://m.media-amazon.com/images/I/61Fj5wTOQiL._AC_UL320_.jpg" 
+                        title="JBL Charge 4 Waterproof Wireless Bluetooth Speaker Bundle with Portable Hard Case - Blue"
+
+                              
+                        price={118.79}
+                        image="https://m.media-amazon.com/images/I/81IoRGCyfgL._AC_UY218_.jpg" 
                         rating={5}
                     />
                      <Product 
                         id='5'
-                        title="Philips Multi Grooming Kit MG3760/33, 11-in-1 (New Model), Face,..."
-                        price={2140}
-                        image="https://m.media-amazon.com/images/I/71Ac6lcrSFL._AC_UL320_.jpg" 
+                        title="2022 Apple iPad Air (10.9-inch, Wi-Fi, 64GB) - Space Gray (5th Generation)"
+                        price={299}
+                        image="https://m.media-amazon.com/images/I/61XZQXFQeVL._AC_UY218_.jpg" 
                         rating={3}
                     />
                     </div>
                     <div className="home_row">
                     <Product 
                         id='6'
-                        title="Samsung 49inch' Curved LED Gaming Monitor = Super Ultra Wide.."
-                        price={35000}
-                        image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg" 
+                        title="Samsung Odyssey 49-in Gaming G9 Computer Monitor LC49G97TSSNXDC"
+                        price={1099.9}
+                        image="https://m.media-amazon.com/images/I/61SQz8S+fEL._AC_UY218_.jpg" 
                         rating={4}
                     />
                     </div>
